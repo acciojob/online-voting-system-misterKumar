@@ -27,5 +27,6 @@ public class Candidate {
 
     public void addVote() {
         //your code goes here
+        votesReceived++;
     }
 }
